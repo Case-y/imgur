@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# Created from the Javascript Workshop!!! Cool STuff
+
 # imgur-voice
 Javascript workshop for Cal Hacks and Hackers @ Berkeley
 
