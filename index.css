@@ -9,7 +9,15 @@
   	-webkit-background-size: cover;
   	-o-background-size: cover;
   	background-size: cover;
-	
+}
+
+h1 {
+  padding-top: 20px;
+  text-align: center;
+  font-family: monospace;
+  font-weight: 900;
+  text-shadow: 1px 3px 6px #000;
+  color: orange;
 }
 
 @-webkit-keyframes fadein {
