@@ -4,7 +4,7 @@
 }
 
 .background {
-	background: url("http://www.vectorfree.com/media/vectors/blue-background-with-stars.jpg") no-repeat center center fixed;
+	background: #F0FFFF
 	-moz-background-size: cover;
   	-webkit-background-size: cover;
   	-o-background-size: cover;
