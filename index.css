@@ -1,3 +1,7 @@
+#status-text {
+	text-indent: 60px;
+}
+
 .imgur-image{
 	height: 300px;
     -webkit-animation: fadein 0.5s;
