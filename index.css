@@ -3,6 +3,11 @@
     -webkit-animation: fadein 0.5s;
 }
 
+.background {
+	background: url("http://livedoor.blogimg.jp/kojimashitteiruka/imgs/e/f/efb57630.jpg") no-repeat center center fixed;
+	opacity: 0.7;
+}
+
 @-webkit-keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
