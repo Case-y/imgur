@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Piazza Voice</title>
+	<link rel="stylesheet" type="text/css" href="index.css"></link>
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css"></link>
+	  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+	  <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.jquery.min.js"></script>
+
+</head>
+	<body>
+		<div class="container">
+			<h1>Piazza Voice</h1>
+			<p>Search piazza with just your voice</p>
+			<div class="alert alert-success" role="alert">
+				<div class="btn btn-primary" id="listen-button" type="button" onclick="toggleListen()">Start Listening</div>
+				<span id="status-text">Hit "Start Listening" and say a word!</span>
+			</div>
+			<div class="row" id="image-container"></div>
+		</div>
+  		<script src="piazza.js"></script>
+
+	</body>
+</html>
