@@ -4,7 +4,7 @@
 }
 
 .background {
-	background: #F0FFFF
+	background: #F0FFFF;
 	-moz-background-size: cover;
   	-webkit-background-size: cover;
   	-o-background-size: cover;
@@ -20,7 +20,6 @@
 
 .search {
 	font-weight: 900;
-	color: orange;
 }
 
 @-webkit-keyframes fadein {
